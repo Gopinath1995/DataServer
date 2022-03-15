@@ -50,9 +50,9 @@
     },
     {
       "name": "Philip",
+      "recruiter": "Dave",
       "email": "Philip@mailinator.com",
       "position": "Senior Software Engineer",
-      "recruiter": "Dave",
       "status": "Rejected",
       "id": 7
     },
