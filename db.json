@@ -1,28 +1,28 @@
 {
   "data": [
     {
-      "id": 1,
       "name": "Gopi",
+      "recruiter": "Durai",
       "email": "gopiTest@mailinator.com",
       "position": "Associate Engineer",
-      "recruiter": "Durai",
-      "status": "Selected"
+      "status": "Selected",
+      "id": 1
     },
     {
-      "id": 2,
       "name": "Gopinath",
+      "recruiter": "markr",
       "email": "Gopinath@mailinator.com",
       "position": "Software Engineer",
-      "recruiter": "Mark",
-      "status": "Selected"
+      "status": "Rejected",
+      "id": 2
     },
     {
-      "id": 3,
       "name": "Christian",
+      "recruiter": "Pascal",
       "email": "Christian@mailinator.com",
       "position": "Senior Software Engineer",
-      "recruiter": "Pascal",
-      "status": "Hold"
+      "status": "Rejected",
+      "id": 3
     },
     {
       "id": 4,
@@ -41,12 +41,12 @@
       "status": "Rejected"
     },
     {
-      "id": 6,
       "name": "Mark",
+      "recruiter": "Darl",
       "email": "Mark@mailinator.com",
       "position": "Software Engineer",
-      "recruiter": "Darl",
-      "status": "Hold"
+      "status": "Rejected",
+      "id": 6
     },
     {
       "name": "Philip",
