@@ -2,9 +2,9 @@
 
 # Installation
 
-git clone git@github.com:Gopinath1995/DataServer.git
+$ git clone https://github.com/Gopinath1995/DataServer.git
 
-cd DataServer
+$ cd DataServer
 
 npm install
 
